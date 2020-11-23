@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Energy Transition – A Project for Generations
+Germany has been promoting renewable energies since the 1990s.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Generationenprojekt Energiewende
+Seit den 1990er-Jahren fördert Deutschland Erneuerbare Energien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Energy Transition is leading to electricity predominantly coming from regenerative sources.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die Energiewende führt zu einer Versorgung aus überwiegend regenerativen Quellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Oskar/stock.adobe.com
+The Energy Transition is the single most important economic and environmental policy task in Germany.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Oskar/stock.adobe.com
+Die Energiewende ist die wichtigste wirtschafts- und umweltpolitische Aufgabe in Deutschland.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Energy Transition refers to the restructuring of the country’s energy supply sources away from fossil fuels and nuclear power, towards renewable energies.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Als Energiewende wird der Umbau der deutschen Energieversorgung weg von Öl, Kohle, Gas und Atomkraft hin zu Erneuerbaren Energien bezeichnet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Germany’s goal is to be largely greenhouse-gas neutral by the year 2050.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Deutschlands Ziel ist es, bis zum Jahr 2050 weitgehend treibhausgasneutral zu werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A minimum of 80 percent of electricity and 60 percent of all energy will then come from renewable energies, so the plan.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Mindestens 80 Prozent der Stromversorgung und 60 Prozent der gesamten Energieversorgung sollen dann aus Erneuerbaren Energien stammen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All nuclear power stations will be mothballed by as early as 2022.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Bereits bis zum Jahr 2022 werden sukzessive alle Atomkraftwerke abgeschaltet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Since 2019 there have only been six nuclear power stations still in operation.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Seit 2019 sind nur noch sechs Atomkraftwerke am Netz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Federal Government is thus pressing ahead with the sustainable restructuring of the energy system, which began as long ago as 2000 with the first resolution on an exit from nuclear power and the promotion of the Renewable Energy Sources Act.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die Bundesregierung setzt damit den nachhaltigen Umbau des Energiesystems fort, der bereits im Jahr 2000 mit dem ersten Beschluss zum Atomausstieg und der Förderung des Erneuerbare-Energien-Gesetzes einsetzte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In Germany the promotion of renewable energies began back in the 1990s and in the year 2000 was made into law in the form of the Renewable Energy Sources Act.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die Förderung der Erneuerbaren Energien begann in Deutschland schon in den 1990er-Jahren; im Jahr 2000 wurde sie dann mit dem Erneuerbare-Energien-Gesetz (EEG) fest verankert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reducing dependency on imports
+Likewise, in the year 2000 the Federal Government at the time agreed with the German energy companies on an exit from nuclear power by 2022.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Abhängigkeit von Importen verringern
+Ebenfalls im Jahr 2000 vereinbarte die damalige Bundesregierung mit den deutschen Energieunternehmen den Atomausstieg bis zum Jahr 2022.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hence, the resolutions the Federal Government passed in 2011 follow in the tradition of restructuring of the energy system to rely on sustainable energy sources.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die Beschlüsse zur Energiewende der Bundesregierung im Jahr 2011 stehen somit in einer Tradition des Umbaus der Energieversorgung hin zu nachhaltigen Energiequellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It views the accelerated reorganisation of the energy system – which was passed in 2011 by the parties represented in the German Bundestag with the express approval of a large majority of the population following the nuclear disaster in Fukushima in Japan – as “a necessary step on the way to an industrial society committed to the idea of sustainability and the preservation of Creation”.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Den 2011 nach der Atomkatastrophe im japanischen Fukushima von den im Deutschen Bundestag vertretenen Parteien beschlossene und von einer großen Bevölkerungsmehrheit nachdrücklich befürwortete beschleunigte Umbau des Energiesystems sieht sie als „notwendigen Schritt auf dem Weg in eine Industriegesellschaft, die dem Gedanken der Nachhaltigkeit und der Bewahrung der Schöpfung verpflichtet ist“.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, it is not only the environment and climate that are intended to benefit from the Energy Transition, but the German economy as well – the primary aim being to eliminate reliance on international imports of crude oil and natural gas.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Jedoch nicht nur Umwelt und Klima sollen von der Energiewende profitieren, sondern auch die deutsche Volkswirtschaft – vor allem die Abhängigkeit von den internationalen Erdöl- und Erdgas-Importen soll verringert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To date, Germany spends around 45 billion euros annually on the import of coal, crude oil, and natural gas.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Deutschland gibt bislang jährlich rund 45 Milliarden Euro für die Einfuhr von Kohle, Erdöl und Erdgas aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In coming years, this amount will be gradually eliminated by domestic value added in the field of renewable energies; moreover, these measures result in additional export opportunities and the prospect of more jobs.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Diese Summe soll in den kommenden Jahren durch heimische Wertschöpfung im Bereich der Erneuerbaren Energien schrittweise ersetzt werden; zudem ergeben sich durch diese Maßnahmen zusätzliche Exportchancen und die Aussicht auf mehr Arbeitsplätze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Using energy more efficiently</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Energie effizienter nutzen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Strengthening the “second pillar” of the Energy Transition – the more economical, more efficient use of energy – is another major task.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Eine weitere zentrale Aufgabe besteht darin, die „zweite Säule“ der Energiewende zu stärken – die sparsamere, effizientere Nutzung der Energie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>At the end of 2019, the Federal Government approved the Energy Efficiency Strategy 2050 (EffSTRA).</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die Bundesregierung hat Ende 2019 die Energieeffizienzstrategie 2050 (EffSTRA) verabschiedet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The target is by the year 2030 for primary energy consumption to have fallen by 30 percent compared to 2008 levels.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Bis zum Jahr 2030 soll der Primärenergieverbrauch im Vergleich zu 2008 um 30 Prozent sinken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Together with business associations and groups from civil society, the federal states and representatives of academia will analyse ways to half consumption by 2050 and develop specific plans for the period between 2030 and 2050.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Gemeinsam mit Verbänden der Wirtschaft und zivilgesellschaftlichen Gruppen, den Bundesländern und Vertreterinnen und Vertretern der Wissenschaft werden Wege zur Halbierung des Verbrauchs bis 2050 analysiert und konkrete Pläne für die Zeit bis 2030 und 2050 entwickelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Industry and large business enterprises have already achieved significant savings, and standards are high.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>In der Industrie und in großen Gewerbebetrieben sind bereits signifikante Einsparungen erreicht worden, die Standards sind hoch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Small companies and public facilities still have some catching up to do.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Nachholbedarf gibt es weiterhin bei kleineren Unternehmen und auch in öffentlichen Liegenschaften.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Improving the energy consumption of old buildings in particular is especially important with regard to increasing energy efficiency, and the Federal Government makes grants available for the purpose.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Vor allem der energetischen  Sanierung von Altbauten kommt bei der Steigerung der Energieeffizienz eine besondere Bedeutung zu. Sie wird von der Bundesregierung gefördert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Buildings account for around 30 percent of carbon dioxide emissions.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Im Gebäudebereich entstehen rund 30 Prozent des Kohlendioxid-Ausstoßes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>World’s first binding climate protection legislation
+The Federal Government’s Climate Protection Programme, which was agreed upon in late 2019, therefore provides for upper limits for emissions from buildings and in other areas.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Weltweit erstes verbindliches Klimaschutzgesetz
+Das Ende 2019 beschlossene Klimaschutzprogramm der Bundesregierung sieht deshalb Obergrenzen für die Emissionen bei Gebäuden sowie in anderen Bereichen vor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Furthermore, the Climate Protection Act includes the resolution that carbon dioxide emissions from transport and buildings are to be given a fixed price.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Zudem wurde mit dem Klimaschutzgesetz beschlossen, dass der Kohlendioxid-Ausstoß im Verkehr und bei Gebäuden einen festen Preis bekommt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This already applies for the energy economy and energy-intensive industry in the context of European emissions trading.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Dies galt im Rahmen des europäischen Emissionshandels bereits für die Energiewirtschaft und die energieintensive Industrie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>From January 2021, the price will initially be 25 euros per ton of CO2, but by the year 2025, it will have increased incrementally to 55 euros.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Der Preis liegt ab Januar 2021 zunächst bei 25 Euro pro Tonne CO2. Bis zum Jahr 2025 steigt er schrittweise auf 55 Euro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Climate Protection Programme paves the way for achievement of the 2030 climate goal: 55 percent lower greenhouse gas emissions compared to 1990 levels.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Mit dem Klimaschutzprogramm soll das Klimaziel 2030 erreicht werden: 55 Prozent weniger Treibhausgasausstoß im Vergleich zum Jahr 1990.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>With its Climate Protection Act, the German government became the first worldwide to frame its national climate protection goals in a legally binding format.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die  Bundesregierung hat in dem Klimaschutzgesetz ihr nationales Klimaschutzziel als erste Regierung weltweit verbindlich festgeschrieben.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Energy Transition seeks not only to minimise risks, but also to enhance climate-compatible energy consumption and high supply security.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die Energiewende zielt nicht nur auf Risikominimierung, sondern auch auf Klimaverträglichkeit und höhere Versorgungssicherheit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The dynamic development of renewable energies has meant an increase in the proportion of carbon dioxide-free energy in the electricity mix.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Durch den dynamischen Ausbau der Erneuerbaren Energien konnte der Anteil der kohlendioxidfreien Energie im Strommix deutlich gesteigert werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In 2019, green electricity had a 42.1-percent share.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Ökostrom hatte 2019 einen Anteil von 42,1 Prozent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Depending on weather, at peak output solar and wind power plants can cover up to 90 percent of electricity demand in Germany.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Je nach Wetterlage können Solar- und Windkraftanlagen in der Spitze bis zu 90 Prozent des Strombedarfs in Deutschland decken.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Over 66 percent of all new residential buildings are already heated with renewable energies and now, in 2020, there are 1.7 million solar PV systems installed, generating approx. 49.5 gigawatts in rated power.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Über 66 Prozent aller neuen Wohngebäude werden bereits mit Erneuerbaren Energien beheizt. 2020 sind 1,7 Millionen Photovoltaikanlagen mit einer Nennleistung von circa 49,5 Gigawatt installiert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This puts Germany in fourth place behind China, the USA and Japan in terms of nameplate capacity.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Mit dieser installierten Leistung liegt Deutschland auf Platz vier hinter China, den USA und Japan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Renewable Energy Sources Act as an international benchmark
+Regarded in several countries as a benchmark, the Renewable Energy Sources Act (EEG) was amended in 2014.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Das Erneuerbare-Energien-Gesetz als internationales Vorbild
+Das erfolgreiche und in vielen Ländern als Vorbild gesehene Fördergesetz, das Erneuerbare-Energien-Gesetz (EEG), wurde 2014 novelliert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The aim was to ensure that the population and business could afford energy, and that its supply was guaranteed.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Ziel war es dabei, die Bezahlbarkeit und Versorgungssicherheit für die Bürger und die Wirtschaft sicherzustellen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The background: As a result of the strong increase in the number of solar power systems and a different method of calculation, after 2009 there was a considerable increase in what is known as the EEG cost levy, whereby the increased cost of expanding green electricity is passed on to consumers on a pro-rated basis.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Hintergrund: Die sogenannte EEG-Umlage – sie legt die erhöhten Kosten des Ökostromausbaus anteilig auf die Verbraucher um – war durch den starken Ausbau der Solarstromanlagen und eine veränderte Berechnungsweise nach 2009 deutlich gestiegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This sparked a public debate on the cost of green electricity and the Energy Transition.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Dies löste eine öffentliche Diskussion über die Kosten des Ökostroms und der Energiewende aus.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Since 2014 the EEG cost levy has remained relatively constant with only slight fluctuations between six and seven cents per kilowatt hour.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Seit 2014 liegt die EEG-Umlage mit leichten Schwankungen relativ konstant bei zwischen sechs und sieben Cent pro Kilowattstunde.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Federal Government is also working on re-designing the structure of the electricity market to ensure stable supplies despite a strong increase in the volume of fluctuating wind and solar power generated.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die Bundesregierung arbeitet zudem an einem neuen Strommarktdesign, das die Stabilität der Versorgung trotz stark steigender Mengen fluktuierenden Wind- und Solarstroms sicherstellt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Among other things it is about ensuring the availability of gas-fired power stations, which can be used as required, and which emit considerably less carbon dioxide than coal-fired power stations.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Hier kommt es unter anderem darauf an, die Verfügbarkeit von flexibel einsetzbaren Gaskraftwerken zu sichern, die deutlich weniger Kohlendioxid ausstoßen als Kohlekraftwerke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Energy Transition requires not only the establishment of new, “green” power stations.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die Energiewende erfordert nicht nur den Aufbau neuer, „grüner“ Kraftwerke.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To ensure a reliable supply, power grids have to be adapted to the new structure.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Für eine sichere Versorgung müssen sich Stromnetze der veränderten Struktur der Stromerzeugung anpassen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To this end there are plans to add several hundred kilometres of “power highways”.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Dafür sind mehrere Hundert Kilometer „Stromautobahnen“ geplant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This way, electricity from wind power, which is primarily generated in north Germany, can reach the strong economic hubs that are the centres of consumption in the south over long distances without major losses.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Strom aus Windkraft, der hauptsächlich in Norddeutschland gewonnen wird, kann so über größere Strecken ohne große Verluste in die wirtschaftsstarken Verbrauchszentren im Süden gelangen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The original plans to install overland cables were abandoned due to civil protests.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Die ursprüngliche Planung, die Leitungen überirdisch zu bauen, wurde auf Grund von Bürgerprotesten verworfen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In 2015, the Federal Government resolved to install underground cables.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>2015 beschloss die Bundesregierung, die Leitungen unteririsch zu verlegen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The major transmission lines are now intended to go operational in 2025 at the earliest, and not 2022 as originally planned.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Nicht mehr 2022, wie ursprünglich geplant, sondern frühestens 2025 sollen die großen Trassen in Betrieb gehen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In addition, the regional grids need to be expanded in order to be able to accommodate the solar power that is fed into the network from decentral sources.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T173325Z">
+        <seg>Darüber hinaus müssen die regionalen Netze weiter ausgebaut werden, um den dezentral eingespeisten Solarstrom aufzunehmen.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

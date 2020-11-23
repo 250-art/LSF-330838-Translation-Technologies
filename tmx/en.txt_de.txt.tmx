@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN"/>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Offshore Renewable Energy Strategy 
+Key Technologies</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Strategie für erneuerbare Offshore-Energie 
+Schlüsseltechnologien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>19 November 2020 
+#EUGreenDeal</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>19. November 2020 
+#EUGreenDeal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To become climate-neutral by 2050, the EU needs to further develop reliable and efficient sources of renewable energy.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Um bis 2050 klimaneutral zu werden, muss die EU zuverlässige und effiziente Quellen für erneuerbare Energie weiterentwickeln.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Most of our renewable energy is currently produced on land.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Der Großteil unserer erneuerbaren Energie wird derzeit an Land erzeugt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However, there are also a range of technologies for renewable energy production at sea with considerable potential for further development.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Es gibt jedoch auch eine Reihe von Technologien für die Erzeugung erneuerbarer Energie auf See, die ein erhebliches Entwicklungspotenzial aufweisen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are opportunities for offshore renewable energy all across Europe - from the North Sea and Baltic Sea to the Atlantic Ocean, the Mediterranean Sea and the Black Sea.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Möglichkeiten zur Offshore-Erzeugung erneuerbarer Energien bestehen in ganz Europa — von der Nordsee und der Ostsee über den Atlantik bis zum Mittelmeer und dem Schwarzen Meer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>And all of Europe will benefit from the sustainable development of offshore energy: 
+It will feed into the European grid; 
+It will offer cleaner energy to citizens; 
+It will reduce our dependence on energy imports; 
+It will support industry across the EU.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Ganz Europa wird auch vom nachhaltigen Ausbau der Offshore-Energie profitieren, 
+die in das europäische Netz eingespeist wird, 
+den Bürgerinnen und Bürgern zu saubererer Energie verhilft, 
+unsere Abhängigkeit von Energieimporten verringern wird, 
+die Wirtschaft in der gesamten EU unterstützen wird.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Examples of projects and production sites</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Beispiele für Projekte und Produktionsstandorte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Offshore bottom-fixed 
+Kårehamn Offshore Windfarm 
+48 MW</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Bodenfeste Offshore-Anlagen 
+Kårehamn Offshore Windfarm 
+48 MW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Offshore bottom-fixed HORNS REV 3 
+406.7 MW</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Bodenfeste Offshore-Anlagen 
+HORNS REV 3 
+406.7 MW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Algae production for biofuels 
+MacroFuels 
+Market readiness envisaged for 2030</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Schwimmende Offshore- Photovoltaikanlagen 
+Oceans of Energy 
+17 kW (voraussichtlich 50 kW bis Ende 2020)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Offshore floating solar PV 
+Oceans of Energy 
+17 kW (expected 50kW by end 2020)</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Algenproduktion für Biokraftstoffe 
+MacroFuels 
+Marktreife 
+für 2030 geplant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Manufacturing sites 
+Power Converters 
+Hubs &amp; Shafts</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Fertigungsstätten 
+Stromkonverter 
+Naben und Wellen 
+Hubs &amp; Shafts</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tidal 
+Hydroquest Ocean 1000 kW</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Gezeitenenergie 
+Hydroquest Ocean 1000 kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Floating Wind 
+WindFloat Atlantic 25 MW</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Schwimmende Windkraftanlagen 
+WindFloat Atlantic 25 MW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wave Energy 
+ISWEC 50 kW</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Wellenenergie 
+ISWEC 50 kW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Technologies supported by the Offshore Renewable Energy Strategy</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Technologien, die im Rahmen der Strategie für erneuerbare Offshore-Energie unterstützt werden</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The EU offshore renewable energy strategy looks at a broad range of technologies.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>In der EU-Strategie für erneuerbare Offshore-Energie wird eine breite Palette von Technologien behandelt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some of them are already well advanced, while others are still on their way to the commercial stage.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Einige von ihnen sind bereits in einem weit fortgeschritten Stadium, andere befinden sich noch in der vorkommerziellen Phase.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OFFSHORE WIND (Bottom-fixed) 
+Offshore wind turbines have a greater output than onshore (as there are no trees, hills and buildings to slow down the wind).</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>OFFSHORE-WINDENERGIE (bodenfeste Anlagen) 
+Offshore-Windkraftturbinen haben einen höheren Output als Onshore-Windkraftanlagen (da e s k eine Bäume, H ügel o der Gebäude gibt, die den Wind verlangsamen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The EU is the world leader in the manufacture and use of this technology.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Die EU ist weltweit führend bei der Herstellung und Nutzung von Anlagen dieser Art.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OFFSHORE WIND (Floating) 
+Floating wind turbines are at an earlier development stage.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>OFFSHORE-WINDENERGIE (schwimmende Anlagen) 
+Schwimmende Windturbinen befinden sich in noch in einem frühen Entwicklungsstadium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>They show greater flexibility than bottom-fixed turbines to adapt to the direction of the wind and the different EU sea basins.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Sie weisen eine größere Flexibilität als bodenfeste Turbinen auf und können daher leichter der Windrichtung und den Verhältnissen in den verschiedenen Meeresbecken der EU angepasst werden. Schwimmende Windturbinen befinden sich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>DIRECT CURRENT TECHNOLOGIES FOR GRID 
+Direct Current technologies for grid, such as High Voltage Direct Current converters and systems, can efficiently convey huge amounts of offshore renewable energy to land, enabling the seamless integration of high shares of renewables.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>GLEICHSTROMSTECHNOLOGIEN FÜR DAS STROMNETZ 
+Gleichstromtechnologien für das Stromnetz, wie z B. Hochspannungs- Gleichstrom-Konverter und -Systeme, ermöglichen die effiziente Übertragung großer Mengen erneuerbarer Offshore-Energie an Land und damit die nahtlose Integration hoher Anteile erneuerbarer Energien. Gleichstromtechnologien, wie z. B. Hochspannungstechnologien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WAVE ENERGY 
+This new technology harnesses the power created by waves, based on the motion of floats which ride the waves.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>WELLENENERGIE 
+Bei dieser neuen Technologie wird die durch Wellen angeregte Bewegung von Schwimmkörpern zur Energieerzeugung genutzt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Different technologies are being developed with considerable potential for decarbonising EU islands.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Derzeit werden verschiedene Technologien entwickelt, die ein beträchtliches Potenzial für die Dekarbonisierung von EU-Inseln aufweisen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>TIDAL ENERGY 
+Tidal energy transforms the movement of tides into electricity – using tidal currents to drive underwater turbines.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>GEZEITENENERGIE 
+Bei dieser Technologie wird Strom in Unterwasserturbinen erzeugt, die von Gezeitenströmungen angetrieben werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is a fully predictable form of renewable energy that can contribute to a more stable power grid.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Es handelt sich um eine sehr vorhersehbare Form der erneuerbaren Energie, die zu einem stabileren Stromnetz beitragen kann.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>SOLAR ENERGY (Floating) 
+Offshore photovoltaic panels have the potential to make the most of the sun at any moment during daylight hours.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>SOLARENERGIEANLAGEN (schwimmend) 
+Offshore-Photovoltaikanlagen bieten die Möglichkeit, zu jeder Tageszeit das Sonnenlicht optimal zu nutzen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This technology is still at an early stage of development.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Diese Technologie befindet sich noch in einem frühen Entwicklungsstadium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>ALGAE FOR BIOFUELS 
+Algae can be used as a source of biofuels such as biodiesel, biogas and bioethanol.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>ALGEN FÜR BIOKRAFTSTOFFE 
+Algen können als Quelle für die Herstellung von Biokraftstoffen wie Biodiesel, Biogas und Bioethanol verwendet werden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This technology is still in its early development but shows a promising potential.</seg>
+      </tuv>
+      <tuv xml:lang="DE" creationid="OmegaT Aligner" creationdate="20201123T171502Z">
+        <seg>Diese Technologie befindet noch in der frühen Entwicklungsphase, weist jedoch ein vielversprechendes Potenzial auf.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
